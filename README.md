@@ -34,21 +34,8 @@
 
 ### 📊 GitHub Stats
 
-![Parth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parth-shah-dev&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=parth-shah-dev&show_icons=true&theme=tokyonight" width="100%" />
 
----
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parth-shah-dev&layout=compact&theme=tokyonight)
-
----
-
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=parth-shah-dev&theme=tokyonight)
-
-
-
-
-
----
 
 ## 🌐 Let's Connect
 
