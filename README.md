@@ -36,7 +36,8 @@
 
 ![Parth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parth-shah-dev&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parth-shah-dev&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=parth-shah-dev&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parth-shah-dev&theme=tokyonight)
+
 
 
 ---
