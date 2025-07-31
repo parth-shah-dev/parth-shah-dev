@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Parth Shah
 
 🥇 Gold Medalist in Diploma (9.86 CGPA, Uka Tarsadia University)  
-🎓 2nd-Year Computer Science Student @ PDEU  
+🎓 2nd-Year Information and communication technology Student @ PDEU  
 💻 Passionate about Systems Programming, DSA, AI, and Language Design  
 🚀 Currently building a Custom OS, Programming Language, and AI-driven Web Portal
 
