@@ -65,4 +65,3 @@
 ---
 
 > “Build what's beneath the surface. That's where the real power lives.” 🔧
-> 
